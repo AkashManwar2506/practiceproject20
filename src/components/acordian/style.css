@@ -1,0 +1,33 @@
+.cardAccord {
+  width: 600px;
+  border-radius: 5px;
+  margin: 10px auto;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  background: #614101;
+  color: #ffffff;
+  padding: 15px;
+}
+
+button {
+  background: black;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 10px auto;
+  font-weight: bold;
+  font-size: large;
+  cursor: pointer;
+}
+
+.question {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.answer {
+  width: 100%;
+}

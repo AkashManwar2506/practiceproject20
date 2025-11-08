@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Rubik", sans-serif;
+  font-style: normal;
+}
+
+#root {
+  /* border: 2px solid blue; */
+
+
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center ; */
+  /* align-items: center; */
+}
