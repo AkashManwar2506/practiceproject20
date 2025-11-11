@@ -1,0 +1,11 @@
+.star {
+  font-size: 80px;
+}
+
+.active {
+  color: gold;
+}
+
+.inActive {
+  color: black;
+}
